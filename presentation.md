@@ -1,12 +1,24 @@
-# <i>TEcHTaLk</i><br> Increase your Productivity
+---
+title: Increase your Productivity in Linux
+theme : "moon"
+transition: "zoom"
+highlightTheme: "darkula"
+slidenumber: true
+separator: ^---
+verticalSeparator: ^--
+showNotes: true ## Export notes in pdf
+## showNotes: "separate-page" for longer notes
+---
+
+# Increase your Productivity in Linux
 
 ---
 
 ## Intro
 
-- My style of flow
-- Always adopt to your needs
-- Not comprehensive
+- biased by my style of flow
+- always adopt to your needs
+- not comprehensive
 
 ---
 
@@ -14,18 +26,17 @@
 
 - Manjaro Linux (Arch based)
 - KDE Plasma 5 DE
-- Konsole and zsh
-- Dark Pastel and Fura Code
+- konsole and zsh
 
 ---
 
 ## Lvl 1 Basics
 
-- Use TAB
-- Use `man`
-- Use your history
+- use TAB
+- use your history
 - `!!` and `!$`
-- Use both "clipboards"
+- use both "clipboards"
+- use `man`
 
 ---
 
@@ -43,8 +54,8 @@
 ## Lvl 3 *shrc
 
 - history settings
-- Aliases
-- Functions
+- aliases
+- functions
 - zsh-autosuggestions
 - zsh-syntax-highlighting
 
@@ -71,7 +82,7 @@ alias xo='xdg-open'
 - lazygit
 - cdgroot
 - dexec
-- vbx
+- vbx-*
 
 ---
 
@@ -81,47 +92,49 @@ alias xo='xdg-open'
 - symlink
 - automate it
 
+---
+
 ## Lvl 7 Tools
 
 Selection of useful tools
 
-----
+--
 
 ### ripgrep
 
-----
+--
 
 ### fd
 
-----
+--
 
 ### fzf
 
-----
+--
 
 ### fasd
 
-----
+--
 
 ### exa
 
-----
+--
 
 ### trans
 
-----
+--
 
 ### tig
 
-----
+--
 
 ### trash-cli
 
-----
+--
 
 ### cht.sh
 
-----
+--
 
 ### cloc
 
@@ -129,14 +142,22 @@ Selection of useful tools
 
 ## Lvl 8 Workflow
 
-- Modify keyboard
-- Use virtual desktops
-- Use Yakuake/Guake
-- Use custom shortcuts
+- `setxkbmap` and `xcape`
+- use virtual desktops
+- use Yakuake/Guake
+- use custom shortcuts
 
 ---
 
-## Expert Lvl Editors
+## Lvl 9 Display
+
+- single vs multiple displays
+- windows vs tabs
+- structure your apps
+
+---
+
+## Lvl 10 Editors
 
 ![](wordcloud.png) <!-- .element height="65%" width="65%" -->
 
@@ -144,8 +165,8 @@ Selection of useful tools
 
 ## Expert Lvl Modal Editing
 
-- The Home Row
-- "Everything Vim"
+- the home row
+- "everything Vim"
 
 ---
 
