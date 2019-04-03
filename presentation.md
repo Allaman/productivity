@@ -1,6 +1,6 @@
 ---
 title: Increase your Productivity in Linux
-theme : "moon"
+theme : "black"
 transition: "zoom"
 highlightTheme: "darkula"
 slidenumber: true
@@ -70,7 +70,7 @@ alias ..='cd ..'
 alias dl='cd /$HOME/Downloads/'
 alias freq='watch grep \"cpu MHz\" /proc/cpuinfo'
 alias externalip='echo $(curl -ss http://ipecho.net/plain)'
-alias rm='echo "This is not the command you are looking for."; false'
+alias rm='echo "Wrong command"; false'
 alias v.="vim ."
 alias xo='xdg-open'
 ```
@@ -167,6 +167,20 @@ Selection of useful tools
 
 - the home row
 - "everything Vim"
+
+---
+
+## Links
+
+[Revealjs](https://knowledge.rootknecht.net/revealjs)
+
+[CLI Applications](https://knowledge.rootknecht.net/cli-applications)
+
+[GUI Applications](https://knowledge.rootknecht.net/gui-applications)
+
+[Tmux](https://knowledge.rootknecht.net/tmux)
+
+[FZF](https://knowledge.rootknecht.net/fzf)
 
 ---
 
