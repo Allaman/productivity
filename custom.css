@@ -1,0 +1,21 @@
+.reveal {
+  color: #A4A4A4;
+}
+
+.reveal code {
+  color: #00FFFF;
+}
+
+.reveal a {
+  color: #ee4b28;
+
+}
+
+.reveal a:hover {
+  color: #00FFFF;
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  color: #ee4b28;
+  letter-spacing: unset;
+}
