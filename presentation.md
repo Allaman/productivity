@@ -100,9 +100,10 @@ alias xo='xdg-open'
 
 # Lvl 8 System
 
-- `setxkbmap` and `xcape`
+- `setxkbmap` and [xcape](https://github.com/alols/xcape)
 - use virtual desktops
 - use Yakuake/Guake
+- use a launcher (krunner,...)
 - use custom shortcuts
 
 # Lvl 9 Display
