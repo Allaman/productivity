@@ -129,6 +129,8 @@ alias xo='xdg-open'
 
 [GUI Applications](https://knowledge.rootknecht.net/gui-applications)
 
+[CLI Web Services](https://knowledge.rootknecht.net/cli-web-services)
+
 [Tmux](https://knowledge.rootknecht.net/tmux)
 
 [FZF](https://knowledge.rootknecht.net/fzf)
