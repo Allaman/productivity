@@ -1,9 +1,9 @@
-image: ntwrkguru/pandoc-gitlab-ci
+image: alpine:latest
 
 pages:
   stage: deploy
   script:
-  - pandoc -t revealjs -s -o slides.html presentation.md -V revealjs-url=https://revealjs.com --css=custom.css --slide-level=2 --self-contained
+  - echo 'Nothing to do...'
   artifacts:
     paths:
     - slides.html
