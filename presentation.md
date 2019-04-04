@@ -113,7 +113,7 @@ alias xo='xdg-open'
 
 # Lvl 10 Editors
 
-![](wordcloud.png) <!-- .element height="65%" width="65%" -->
+![](wordcloud.png){#id .class width=65% height=65%}
 
 # Expert Lvl Modal Editing
 
