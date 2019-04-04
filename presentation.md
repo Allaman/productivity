@@ -133,4 +133,6 @@ alias xo='xdg-open'
 
 [FZF](https://knowledge.rootknecht.net/fzf)
 
+[Source of the slides](https://repo.rootknecht.net/open/linux-productivity)
+
 # {data-background-image="question-mark.jpg"}
