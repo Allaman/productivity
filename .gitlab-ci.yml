@@ -1,4 +1,4 @@
-image: pandoc/core
+image: ntwrkguru/pandoc-gitlab-ci
 
 pages:
   stage: deploy
