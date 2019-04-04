@@ -1,11 +1,11 @@
-image: alpine:latest
+image: jagregory/pandoc
 
 pages:
   stage: deploy
   script:
-  - echo 'Nothing to do...'
+  - pandoc -t revealjs -s -o slides.html presentation.md -V revealjs-url=https://revealjs.com --css=custom.css --slide-level=2 --self-contained
   artifacts:
     paths:
-    - public
+    - slides.html
   only:
   - master

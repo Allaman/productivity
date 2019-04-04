@@ -4,33 +4,23 @@ theme : "black"
 transition: "zoom"
 highlightTheme: "darkula"
 slidenumber: true
-separator: ^---
-verticalSeparator: ^--
 showNotes: true ## Export notes in pdf
 ## showNotes: "separate-page" for longer notes
 ---
 
-# Increase your Productivity in Linux
-
----
-
-## Intro
+# Intro
 
 - biased by my style of flow
 - always adopt to your needs
 - not comprehensive
 
----
-
-## A Word on my Environment
+# My Environment
 
 - Manjaro Linux (Arch based)
 - KDE Plasma 5 DE
 - konsole and zsh
 
----
-
-## Lvl 1 Basics
+# Lvl 1 Basics
 
 - use TAB
 - use your history
@@ -38,9 +28,7 @@ showNotes: true ## Export notes in pdf
 - use both "clipboards"
 - use `man`
 
----
-
-## Lvl 2 Shell Movement
+# Lvl 2 Shell
 
 - `C-a`, `C-e`
 - `C-w` delete word
@@ -49,9 +37,7 @@ showNotes: true ## Export notes in pdf
 - history auto completion
 - `cd` and `cd -`
 
----
-
-## Lvl 3 *shrc
+# Lvl 3 *shrc
 
 - history settings
 - aliases
@@ -59,9 +45,7 @@ showNotes: true ## Export notes in pdf
 - zsh-autosuggestions
 - zsh-syntax-highlighting
 
----
-
-## Lvl 4 Aliases
+# Lvl 4 Aliases
 
 ```sh
 alias pacin='trizen -S'
@@ -75,102 +59,68 @@ alias v.="vim ."
 alias xo='xdg-open'
 ```
 
----
-
-## Lvl 5 Functions
+# Lvl 5 Functions
 
 - lazygit
 - cdgroot
 - dexec
 - vbx-*
 
----
-
-## Lvl 6 dotfiles
+# Lvl 6 dotfiles
 
 - version control
 - symlink
 - automate it
 
----
+# Lvl 7 Tools
 
-## Lvl 7 Tools
+- selection of tools
+- only scratching
+- see links section
 
-Selection of useful tools
+## ripgrep
 
---
+## fd
 
-### ripgrep
+## fzf
 
---
+## fasd
 
-### fd
+## exa
 
---
+## trans
 
-### fzf
+## tig
 
---
+## trash-cli
 
-### fasd
+## cht.sh
 
---
+## cloc
 
-### exa
-
---
-
-### trans
-
---
-
-### tig
-
---
-
-### trash-cli
-
---
-
-### cht.sh
-
---
-
-### cloc
-
----
-
-## Lvl 8 Workflow
+# Lvl 8 System
 
 - `setxkbmap` and `xcape`
 - use virtual desktops
 - use Yakuake/Guake
 - use custom shortcuts
 
----
-
-## Lvl 9 Display
+# Lvl 9 Display
 
 - single vs multiple displays
 - windows vs tabs
 - structure your apps
 
----
-
-## Lvl 10 Editors
+# Lvl 10 Editors
 
 ![](wordcloud.png) <!-- .element height="65%" width="65%" -->
 
----
-
-## Expert Lvl Modal Editing
+# Expert Lvl Modal Editing
 
 - the home row
 - "everything Vim"
 
----
-
-## Links
+# Links
 
 [Revealjs](https://knowledge.rootknecht.net/revealjs)
 
@@ -182,6 +132,4 @@ Selection of useful tools
 
 [FZF](https://knowledge.rootknecht.net/fzf)
 
----
-
-<!-- .slide: data-background="question-mark.jpg" -->
+# {data-background-image="question-mark.jpg"}
