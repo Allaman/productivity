@@ -68,9 +68,9 @@ alias xo='xdg-open'
 
 # Lvl 6 dotfiles
 
-- version control
-- symlink
-- automate it
+- [version control](https://github.com/Allaman/dotfiles)
+- [symlink](https://github.com/thoughtbot/rcm)
+- [automate it](https://repo.rootknecht.net/allaman/ansible-role-dotfiles)
 
 # Lvl 7 Tools
 
@@ -86,7 +86,7 @@ alias xo='xdg-open'
 
 ## fasd
 
-## exa
+## broot
 
 ## trans
 
@@ -94,9 +94,9 @@ alias xo='xdg-open'
 
 ## trash-cli
 
-## cht.sh
-
 ## cloc
+
+## VSC
 
 # Lvl 8 System
 
