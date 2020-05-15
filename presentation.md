@@ -98,6 +98,11 @@ alias xo='xdg-open'
 
 ## VSC
 
+- Remote Extension
+- Gitlens
+- Draw.io
+- Live Share
+
 # Lvl 8 System
 
 - `setxkbmap` and [xcape](https://github.com/alols/xcape)
