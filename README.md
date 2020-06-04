@@ -4,7 +4,3 @@
 
 Made with [Revealjs](https://knowledge.rootknecht.net/revealjs) and [Pandoc](https://pandoc.org/)
 
-
-Todo:
-
-- Add clickless focus on window function!
