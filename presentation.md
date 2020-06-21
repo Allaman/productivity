@@ -5,6 +5,7 @@ transition: "zoom"
 highlightTheme: "darkula"
 slidenumber: true
 showNotes: true ## Export notes in pdf
+captureMenu: false
 ## showNotes: "separate-page" for longer notes
 ---
 
@@ -61,7 +62,7 @@ alias xo='xdg-open'
 
 # Lvl 5 Functions
 
-- lazygit
+- lg
 - cdgroot
 - dexec
 - vbx-*
@@ -70,7 +71,7 @@ alias xo='xdg-open'
 
 - [version control](https://github.com/Allaman/dotfiles)
 - [symlink](https://github.com/thoughtbot/rcm)
-- [automate it](https://repo.rootknecht.net/allaman/ansible-role-dotfiles)
+- [automate it](https://github.com/Allaman/ansible-role-dotfiles)
 
 # Lvl 7 Tools
 
@@ -103,7 +104,12 @@ alias xo='xdg-open'
 - Draw.io
 - Live Share
 
-# Lvl 8 System
+# Lvl 8 Scripting
+
+- gitconfig-generator.sh
+- dockerhub-login.sh
+
+# Lvl 9 System
 
 - `setxkbmap` and [xcape](https://github.com/alols/xcape)
 - use virtual desktops
@@ -111,13 +117,14 @@ alias xo='xdg-open'
 - use a launcher (krunner,...)
 - use custom shortcuts
 
-# Lvl 9 Display
+# Lvl 10 Display
 
+- clickless focus
 - single vs multiple displays
 - windows vs tabs
 - structure your apps
 
-# Lvl 10 Editors
+# Lvl 11 Editors
 
 ![](wordcloud.png){#id .class width=65% height=65%}
 
@@ -140,6 +147,6 @@ alias xo='xdg-open'
 
 [FZF](https://knowledge.rootknecht.net/fzf)
 
-[Source of the slides](https://repo.rootknecht.net/open/linux-productivity)
+[Source of the slides](https://github.com/Allaman/productivity)
 
 # {data-background-image="question-mark.jpg"}

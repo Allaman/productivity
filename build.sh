@@ -1,4 +1,6 @@
 #!/bin/bash
 
-#pandoc -t revealjs -s -o public/index.html presentation.md -V revealjs-url=reveal.js --css=custom.css --slide-level=2 --self-contained
-pandoc -t revealjs -s -o public/index.html presentation.md -V revealjs-url=https://revealjs.com --css=custom.css --slide-level=2 --self-contained
+# https://github.com/jgm/pandoc/wiki/Using-pandoc-to-produce-reveal.js-slides
+
+#pandoc -t revealjs -s -o docs/index.html presentation.md -V revealjs-url=reveal.js --css=custom.css --slide-level=2 --self-contained
+pandoc -t revealjs -s -o docs/index.html presentation.md -V revealjs-url=https://unpkg.com/reveal.js@3.9.2/ --css=custom.css --slide-level=2 --self-contained
