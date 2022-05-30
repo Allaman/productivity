@@ -1,6 +1,6 @@
 ---
 title: Increase your Productivity in Linux
-theme : "black"
+theme: "black"
 transition: "zoom"
 highlightTheme: "darkula"
 slidenumber: true
@@ -38,7 +38,7 @@ captureMenu: false
 - history auto completion
 - `cd` and `cd -`
 
-# Lvl 3 *shrc
+# Lvl 3 \*shrc
 
 - history settings
 - aliases
@@ -65,7 +65,7 @@ alias xo='xdg-open'
 - lg
 - cdgroot
 - dexec
-- vbx-*
+- vbx-\*
 
 # Lvl 6 dotfiles
 
@@ -135,17 +135,17 @@ alias xo='xdg-open'
 
 # Links
 
-[Revealjs](https://knowledge.rootknecht.net/revealjs)
+[Revealjs](https://rootknecht.net/knowledge/applications/revealjs/)
 
-[CLI Applications](https://knowledge.rootknecht.net/cli-applications)
+[CLI Applications](https://rootknecht.net/knowledge/applications/cli/)
 
-[GUI Applications](https://knowledge.rootknecht.net/gui-applications)
+[GUI Applications](https://rootknecht.net/knowledge/applications/gui/)
 
-[CLI Web Services](https://knowledge.rootknecht.net/cli-web-services)
+[CLI Web Services](https://rootknecht.net/knowledge/applications/cli/#webservices)
 
-[Tmux](https://knowledge.rootknecht.net/tmux)
+[Tmux](https://rootknecht.net/knowledge/applications/tmux/)
 
-[FZF](https://knowledge.rootknecht.net/fzf)
+[FZF](https://rootknecht.net/knowledge/applications/fzf/)
 
 [Source of the slides](https://github.com/Allaman/productivity)
 
